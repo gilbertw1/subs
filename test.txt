@@ -1,0 +1,7 @@
+
+Yellow: {{normal.yellow}}
+Green: {{normal.green}}
+
+Bright Green: {{bright.green}}, Normal Green: {{normal.green}}
+
+The special color is {{special.color}}

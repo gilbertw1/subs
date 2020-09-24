@@ -1,0 +1,22 @@
+# Normal
+normal.black   = "0x282828"
+normal.red     = "0xcc241d"
+normal.green   = "0x98971a"
+normal.yellow  = "0xd79921"
+normal.blue    = "0x458588"
+normal.magenta = "0xb16286"
+normal.cyan    = "0x689d6a"
+normal.white   = "0xa89984"
+
+# Bright
+bright.black   = "0x928374"
+bright.red     = "0xfb4934"
+bright.green   = "0xb8bb26"
+bright.yellow  = "0xd79921"
+bright.blue    = "0x458588"
+bright.magenta = "0xb16286"
+bright.cyan    = "0x689d6a"
+bright.white   = "0xa89984"
+
+# Special
+special.color = bright.red
